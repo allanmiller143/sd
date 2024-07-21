@@ -1,1 +1,1 @@
-# sd
+# ws-miniproject-sd
